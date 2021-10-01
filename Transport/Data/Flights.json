@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "origin": {
+      "id": "YUL",
+      "city": "Montreal"
+    },
+    "destination": {
+      "id": "YYZ",
+      "city": "Toronto"
+    },
+    "plane": {
+      "id": "A1",
+      "boxCapacity": 20
+    }
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "origin": {
+      "id": "YUL",
+      "city": "Montreal"
+    },
+    "destination": {
+      "id": "YVR",
+      "city": "Calgary"
+    },
+    "plane": {
+      "id": "A1",
+      "boxCapacity": 20
+    }
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "origin": {
+      "id": "YUL",
+      "city": "Montreal"
+    },
+    "destination": {
+      "id": "YVR",
+      "city": "Vancouver"
+    },
+    "plane": {
+      "id": "A1",
+      "boxCapacity": 20
+    }
+  },
+  {
+    "id": 4,
+    "day": 2,
+    "origin": {
+      "id": "YUL",
+      "city": "Montreal"
+    },
+    "destination": {
+      "id": "YYZ",
+      "city": "Toronto"
+    },
+    "plane": {
+      "id": "A1",
+      "boxCapacity": 20
+    }
+  },
+  {
+    "id": 5,
+    "day": 2,
+    "origin": {
+      "id": "YUL",
+      "city": "Montreal"
+    },
+    "destination": {
+      "id": "YVR",
+      "city": "Calgary"
+    },
+    "plane": {
+      "id": "A1",
+      "boxCapacity": 20
+    }
+  },
+  {
+    "id": 6,
+    "day": 2,
+    "origin": {
+      "id": "YUL",
+      "city": "Montreal"
+    },
+    "destination": {
+      "id": "YVR",
+      "city": "Vancouver"
+    },
+    "plane": {
+      "id": "A1",
+      "boxCapacity": 20
+    }
+  }
+]
